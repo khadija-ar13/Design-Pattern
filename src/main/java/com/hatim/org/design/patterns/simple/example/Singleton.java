@@ -16,8 +16,8 @@ public class Singleton {
     }
 
     // Méthode pour exécuter une requête (exemple factice)
-    public String executeQuery(String query) {
+    /*public String executeQuery(String query) {
         // Ici, vous pouvez implémenter la logique réelle pour exécuter une requête
         return "Résultat de la requête : " + query;
-    }
+    }*/
 }
